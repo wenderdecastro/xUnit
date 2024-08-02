@@ -1,0 +1,14 @@
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\bin\Debug\net7.0\XUnitTest.exe
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\bin\Debug\net7.0\XUnitTest.deps.json
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\bin\Debug\net7.0\XUnitTest.runtimeconfig.json
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\bin\Debug\net7.0\XUnitTest.dll
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\bin\Debug\net7.0\XUnitTest.pdb
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\XUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\XUnitTest.AssemblyInfoInputs.cache
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\XUnitTest.AssemblyInfo.cs
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\XUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\XUnitTest.dll
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\refint\XUnitTest.dll
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\XUnitTest.pdb
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\XUnitTest.genruntimeconfig.cache
+C:\Users\47447272809\Desktop\xUnitTest\XUnitTest\obj\Debug\net7.0\ref\XUnitTest.dll
